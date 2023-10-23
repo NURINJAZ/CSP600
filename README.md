@@ -1,6 +1,6 @@
 # CSP600
 
-## Tranquil Mind: Mental Health Mobile Application using Geolocation
+## TITLE; Tranquil Mind: Mental Health Mobile Application using Geolocation
 
 ### Project Background
 - Developing mobile applications for mental health patients diagnosed with depression, anxiety, or Post-traumatic stress disorder (PTSD).
@@ -13,6 +13,6 @@
 - Necessitate costly and time-consuming procedures (Yang, 2021).
 
 ### Objective
-- To develop a mobile application that can help the patient who was diagnosed with mental health issues.
+- To develop a mobile application that can assist patients who were diagnosed with mental health conditions by enabling them to schedule appointments through the application and access self-help resources.
 - To evaluate the app's design for user-friendliness, ease of navigation, and accessibility.
 - To provide cost-effective mental health services and support, particularly to those who might otherwise not have access to  mental health care.
